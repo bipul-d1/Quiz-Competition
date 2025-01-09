@@ -1,1 +1,1 @@
-# Quiz-Competition
+Head Website Designer : Rasik Adhikari
