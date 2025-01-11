@@ -1,0 +1,55 @@
+body {
+    background-image: url(https://lh3.googleusercontent.com/pw/AP1GczM4h_YkOPDX-ZGdj8HW46ly3Zq67VCuZbSFjZ4Ii6s5XcqfFhV8deJA2HTB4pf7e2hpiMSPasbWhXKrXXgu3B2MemjMFgDh-VelcgZFar9kAoheVo4=w2400);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    list-style: none;
+}
+
+.round {
+    margin-bottom: 30px;
+}
+
+.round-title {
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.regularQuestions {
+    gap: 50px;
+    flex-direction: column;
+    font-size: medium;
+}
+
+.regularTable,
+td,
+tr {
+    border: 3px solid black;
+}
+
+td {
+    padding: 15px;
+    font-size: xx-large;
+}
+
+.regularTable {
+    background: url(https://static.vecteezy.com/system/resources/thumbnails/008/058/793/small/abstract-blur-with-bokeh-light-for-background-usage-vector.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
